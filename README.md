@@ -1,7 +1,7 @@
 # Algorithms_and_structures
 Three project executed on Subject Algorithms_and_structures.
 
-.First project
+. First project
 Algorithm search few number linear and binary, in scope 200 000.
 
 # Secound project
